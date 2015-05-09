@@ -1,5 +1,5 @@
-# sortable_challenge
-repository for sortable challenge 
+# Sortable Coding Challenge 
+Repository for the coding challenge for Sortable 
 
 ## Current Approach
 
